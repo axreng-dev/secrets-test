@@ -5,3 +5,4 @@ https://docs.gitguardian.com/secrets-detection/detectors/specifics/index
 
 teste1
 teste2
+teste3
