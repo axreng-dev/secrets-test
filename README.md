@@ -4,3 +4,4 @@ Este é um repositório de testes. As chaves e segredos nos arquivos desse repos
 https://docs.gitguardian.com/secrets-detection/detectors/specifics/index
 
 teste1
+teste2
