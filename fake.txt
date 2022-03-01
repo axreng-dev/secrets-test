@@ -1,0 +1,9 @@
+...
+Test file with fake key pattern
+AKIAFAKEFAKEFAKEFAKE
+
+..
+
+
+
+.....
